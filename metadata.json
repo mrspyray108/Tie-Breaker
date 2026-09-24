@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "AI decision assistant offering pros & cons, comparison tables, SWOT analysis, and tie-breaking verdicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
